@@ -1,0 +1,21 @@
+/*  
+
+Theme Name: Indosiar21 
+Theme URI: 
+Description: Microsite for Indosiar HUT 21
+Author: Gamal Ardipratama
+Author URI: http://gamalardi.com
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ 
+*/
+
+/* import vendor css -- */
+@import './node_modules/bootstrap-sass/assets/stylesheets/_bootstrap';
+@import '_vendor/animate';
+
+
+/* include project css -- */
+// @import var; comment out for now
+@import 'base';
